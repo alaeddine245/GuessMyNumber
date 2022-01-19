@@ -1,1 +1,2 @@
 # GuessMyNumber
+A JS refresher
